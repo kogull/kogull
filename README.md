@@ -7,8 +7,10 @@
 - <b>Home Lab (Hypervisors, Servers, Networking and Troubleshooting)</b>
   - [Home Lab Report](https://github.com/kogull/Home-Lab)
 - <b>Cyber Security Lab</b>
-  - [Home Lab Report](https://github.com/kogull/Home-Lab)
   - [Active Directory](https://github.com/kogull/activedirectory)
+  - [Vulnerability Scanner]
+  - [Incident Response]
+  - [System Information Event Management]
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -3,14 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Practicing DS & Algos in Python and C++](https://github.com/kogull/Algorithms-Practice)
+  - [Practicing Scripting & Algorithms](https://github.com/kogull/Algorithms-Practice)
 - <b>Home Lab (Hypervisors, Servers, Networking and Troubleshooting)</b>
   - [Home Lab Report](https://github.com/kogull/Home-Lab)
 - <b>Cyber Security Lab</b>
-  - [Active Directory](https://github.com/kogull/activedirectory)
-  - [Vulnerability Scanner]
-  - [Incident Response]
-  - [System Information Event Management]
+  - [Cyber Lab Report](https://github.com/kogull/Cyber-Lab)
 
 
 <h2> 🤳 Connect with me:</h2>

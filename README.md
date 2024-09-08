@@ -2,13 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Practicing Scripting & Algorithms](https://github.com/kogull/Algorithms-Practice)
 - <b>Home Lab (Hypervisors, Servers, Networking and Troubleshooting)</b>
   - [Home Lab Report](https://github.com/kogull/Home-Lab)
 - <b>Cyber Security Lab</b>
   - [Cyber Lab Report](https://github.com/kogull/Cyber-Lab)
-
+- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+  - [Practicing Scripting & Algorithms](https://github.com/kogull/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
